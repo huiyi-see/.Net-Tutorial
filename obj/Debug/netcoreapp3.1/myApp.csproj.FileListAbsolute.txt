@@ -1,0 +1,12 @@
+/Users/huiyi/git/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/huiyi/git/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/huiyi/git/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/huiyi/git/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/huiyi/git/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/huiyi/git/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
